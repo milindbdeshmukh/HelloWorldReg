@@ -11,11 +11,11 @@
 <h3>Registratered Successfully.</h3>
 <table>
 	<tr>
-		<td>User Name :</td>
+		<td>First Name :</td>
 		<td><core:out value="${registration.userName}" /></td>
 	</tr>
 	<tr>
-		<td>Password :</td>
+		<td>Last Name :</td>
 		<td><core:out value="${registration.lastName}" /></td>
 	</tr>
 </table>
